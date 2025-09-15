@@ -1,0 +1,9 @@
+.Link {
+    font-size: 1.5rem;
+    margin: 10px;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+}
