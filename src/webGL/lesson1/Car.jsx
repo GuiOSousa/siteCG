@@ -42,5 +42,5 @@ export default function CarCanvas() {
 
     }, []);
 
-    return <canvas ref={canvasRef} width={600} height={600}/>;
+    return <canvas ref={canvasRef} width={600} height={600} />;
 }
